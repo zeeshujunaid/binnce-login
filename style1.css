@@ -1,0 +1,56 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.bg{
+    z-index: -1;
+    filter: blur(1px);
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+}
+.div{
+    padding-top: 130px;
+    display: flex;
+    flex-direction: column;
+    height: 90px;
+    width: 580px;
+    padding-left: 420px;
+}
+.pass{
+    padding-top: 80px;
+    display: flex;
+    flex-direction: column;
+    width: 580px;
+    height: 80px;
+    padding-left: 420px;
+    
+}
+.heigh{
+    height: 60px;
+  border-radius: 20px;
+}
+.butt2{
+    width: 580px;
+}
+.background{
+    background-color: yellow;
+    width: 580px;
+    height: 60px;
+    border-radius: 20px;
+}
+.butt{
+    padding-top:100px;
+    display: flex;
+    flex-direction: column;
+    width: 580px;
+    height: 30px;
+    padding-left: 420px;
+}
+.hh{
+    color: white;
+}

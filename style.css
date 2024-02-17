@@ -1,0 +1,427 @@
+body{
+    background-color:rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+}
+.main-cointainer{
+      display: flex;
+      background-color: black;
+      flex-direction: row;
+}
+.maindiv{
+   color: white;
+   display: flex;
+   flex-direction: row;
+   height: 10vh;
+   
+  }
+  .binance-logo{
+    height: 60px;
+    width: 180px;
+    display: flex;
+    
+  }
+  .maindiv h6{
+    padding-left: 20px;
+  }
+  .maindiv1{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    right: 20px;
+    padding-top: 5px;
+  }
+  .main-center-div{
+    color:#ffee00;
+    font-family: 'Protest Strike', sans-serif;
+    width: 50px;
+  }
+  .main-center-div .h1{
+    font-size:80px ;
+    padding-left: 150px;
+    top: 30px;
+    position: absolute;
+  }
+  .main-center-div .H2{
+    position: absolute;
+    top: 110px;
+    font-size: 80px;
+    color: white;
+   left:90px;
+   padding-left: 50px;
+  }
+  .main-center-div .H3{
+    position: absolute;
+    top: 200px;
+    padding-left: 140px;
+    color: white;
+  font-size: 80px;
+  }
+  .input{
+    display: flex;
+    border: 1px gray solid;
+    border-radius: 10px;
+    height: 40px;
+    padding-left: 20px;
+    width: 270px;
+    background-color: black;
+    color:white ;
+  }
+  .input-div{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    bottom: 210px;
+    left: 150px;
+    width: 500px;
+
+  }
+  .input-button{
+    border: 2px yellow solid;
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    background-color: yellow;
+    position: absolute;
+    bottom: 1px;
+    left: 300px;
+  }
+  .input-div p{
+    position: absolute;
+    top: 40px;
+    left: 50px;
+    padding-top: 10px;
+    color: white;
+  }
+
+.jjjj{
+ position: absolute;
+ left: 700px;
+ bottom: 330px;
+display: flex;
+flex-direction: column;
+}
+.d1{
+  background-color: rgb(37, 36, 36);
+  display: flex;
+  flex-direction: column;
+  width: 470px;
+  height: 175px;
+  border-radius: 10px;
+}
+.image1-last-div{
+padding-top: 5px;
+height:30px;
+width: 30px;
+padding-left: 10px;
+}
+.image2-last-div{
+padding-top: 10px;
+height: 30px;
+width: 30px;
+padding-left: 10px;
+}
+.image3-last-div{
+  padding-top: 10px;
+height: 30px;
+width: 30px;
+padding-left: 10px;
+}
+.image4-last-div{
+  padding-top: 10px;
+height: 30px;
+width: 30px;
+padding-left: 10px;
+}
+.HH1{
+  position: absolute;
+  top: 90px;
+  right: 570px;
+}
+.HH2{
+  position: absolute;
+  top: 130px;
+  right: 570px;
+}
+.HH3{
+  position: absolute;
+  top: 170px;
+  right: 570px;
+}.HH4{
+  position: absolute;
+  top: 210px;
+  right: 570px;
+}
+.p1{
+  position: absolute;
+  top: 94px;
+  right: 510px;
+}
+.p2{
+  position: absolute;
+  top: 134px;
+  right: 492px;
+}
+.p3{
+  position: absolute;
+  top: 174px;
+  right: 520px;
+}
+.p4{
+  position: absolute;
+ top: 214px;
+  right: 510px;
+}
+.nn1{
+  position: absolute;
+  top: 94px;
+   right: 320px;
+}
+.nn2{
+  position: absolute;
+  top: 134px;
+   right: 320px;
+}
+.nn3{
+  position: absolute;
+  top: 174px;
+   right: 320px;
+}
+.nn4{
+  position: absolute;
+  top: 214px;
+   right: 320px;
+}
+.percent4{
+  position: absolute;
+  top: 214px;
+   right: 220px;
+   color: green;
+}
+.percent3{
+  position: absolute;
+  top: 174px;
+  right: 220px;
+  color: red;
+
+}
+.percent2{
+  position: absolute;
+  top: 134px;
+  right: 220px;
+  color: red;
+}
+.percent1{
+  position: absolute;
+  top: 94px;
+  right: 220px;
+  color: green;
+
+}
+.jjjj1{
+  position: absolute;
+  bottom:138px;
+  left: 700px;
+  
+}
+.snnn{
+  background-color: rgb(37, 36, 36);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  width: 470px;
+  height: 180px;
+  border-radius: 10px;
+}
+.snnn p{
+  padding-left: 10px;
+  font-size: 17px;
+  padding-right: 5px;
+}
+.pp{
+  position: absolute;
+  top: 48px;
+  padding-left: 10px;
+  font-size: 17px;
+  padding-right: 5px;
+}
+.ppp{
+  position: absolute;
+  top: 97px;
+  padding-left: 10px;
+  font-size: 17px;
+  padding-right: 5px;
+}
+.jjjj2{
+  position: absolute;
+  bottom:30px;
+  left: 700px;
+  
+}
+.snnn2{
+  background-color: rgb(37, 36, 36);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  width: 470px;
+  height: 95px;
+  border-radius: 10px;
+}
+.vv{
+  display: flex;
+  position: absolute;
+ bottom: 45px;
+ padding-left: 10px;
+}
+.d{
+position: absolute;
+top: 30px;
+left: 20px;
+font-size: 26px;
+}
+.h{
+  position: absolute;
+  top: 30px;
+  left: 80px;
+  font-size: 26px;
+  }
+  .m{
+    position: absolute;
+    top: 30px;
+    right: 310px;
+    font-size: 26px;
+    }
+    .s{
+      position: absolute;
+      top: 30px;
+     right: 240px;
+      font-size: 26px;
+     
+      }
+.dp{
+  position: absolute;
+top: 55px;
+left: 50px;
+}
+.mp{
+  position: absolute;
+top: 55px;
+left: 110px;
+}
+.hp{
+  position: absolute;
+top: 55px;
+left: 170px;
+}
+.sp{
+  position: absolute;
+top: 55px;
+left: 240px;
+
+}
+.last---div{
+   display: flex;
+   color: white;
+   /* background-color: #ffee00; */
+   height: 130px;
+ position: absolute;
+ bottom: 20px;
+ left: 160px;
+ flex-direction: column;
+   width: 370px;
+}
+.zz{
+  font-size: 20px;
+  padding-left: 20px;
+}
+.card{
+  display: flex;
+  flex-direction: row;
+  border: 1px gray solid;
+  width: 50px;
+  border-radius: 10px;
+  height: 40px;
+}
+.oo{
+  padding-left: 10px;
+  padding-top: 3px;
+  border-radius: 2px;
+
+}
+.card1{
+  display: flex;
+  flex-direction: row;
+  border: 1px gray solid;
+  width: 50px;
+  border-radius: 10px;
+  height: 40px;
+  position: absolute;
+  left: 90px;
+}
+.oo1{
+  padding-left: 10px;
+  padding-top: 3px;
+  border-radius: 2px;
+
+}
+
+.bbb{
+ display: flex;
+ flex-direction: row;
+}
+.div2{
+  display: flex;
+  flex-direction: row;
+  border: 1px gray solid;
+  width: 50px;
+  border-radius: 10px;
+  height: 38px;
+  position: absolute;
+  left: 240px;
+}
+.oo2{
+  padding-left: 10px;
+  padding-top: 4px;
+}
+.YY{
+  display: flex;
+  color: grey;
+  position: absolute;
+  bottom: 92px;
+  left: 390px;
+}
+
+
+
+
+
+
+
+ccccccc  {
+  .main-cointainer{
+    background-color: yellow;
+height: 50px;
+width: 2000px;
+padding-left: 0%;
+  }
+  .binance-logo{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding-left: 80px;
+  }
+  .max{
+    display: none;
+ 
+  }
+  .maindiv1{
+    display: none;
+  }
+  .main-center-div{
+    display: flex;
+    height: 50px;
+    width: 50px;
+    justify-content: center;
+  }
+}
